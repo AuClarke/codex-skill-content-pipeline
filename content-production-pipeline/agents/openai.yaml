@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容生产流水线"
+  short_description: "Produce checked PPT documents scripts from sourced materials"
+  default_prompt: "Use $content-production-pipeline to turn collected materials into a checked PPT, document, or content script."
